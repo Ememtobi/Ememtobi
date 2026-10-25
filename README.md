@@ -18,7 +18,7 @@ I specialize in **test automation, API testing, web & mobile testing, payment sy
 * 🤖 AI-assisted testing & QA agents
 * 🎭 Advanced Playwright automation
 * 🔗 API & backend automation
-* 📱 Mobile & POS automation
+* 📱 Mobile & Web automation
 * ⚙️ QA automation workflows
 
 ## 📫 Let's Connect!  
